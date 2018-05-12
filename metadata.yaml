@@ -1,0 +1,24 @@
+_repo: Margaret-Capel-vol.-1-of-3A-Novel_40006
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wallace, Ellen
+    gutenberg_agent_id: '40362'
+    url: http://www.gutenberg.org/2009/agents/40362
+description: ''
+gutenberg_issued: '2012-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+title: 'Margaret Capel: A Novel, vol. 1 of 3'
+url: http://www.gutenberg.org/ebooks/40006
